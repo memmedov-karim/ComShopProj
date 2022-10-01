@@ -1,0 +1,27 @@
+.left-side {
+    width: 20%;
+    /* border: 1px solid black; */
+    margin-left: 0.5%;
+}
+form{
+    margin-bottom: 15px;
+}
+form .inputt {
+    width: 100%;
+    outline: none;
+    height: 35px;
+
+}
+
+ul li {
+    list-style: none;
+    border:0.5px solid black;
+    width: 114%;
+    margin-left: -14%;
+    height: 35px;
+    text-align: center;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

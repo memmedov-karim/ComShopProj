@@ -1,0 +1,32 @@
+.nav{
+    padding: 5px;
+}
+button{
+    margin-right: 10px;
+    border: none;
+    border-radius: 4px;
+    padding: 2px;
+}
+
+.generalpage{
+    background-color: rgb(241, 170, 4);
+}
+.newcomp{
+    background-color: rgb(17, 174, 231);
+}
+.logout{
+    background-color: rgb(192, 62, 62);
+    color: white;
+}
+.mycomps{
+    background-color: rgb(0, 102, 255);
+    color: white;
+}
+.buycomp{
+    background-color: rgb(241, 170, 4);
+
+}
+.loginaccount{
+    background-color: rgb(43, 128, 0);
+    color: white;
+}

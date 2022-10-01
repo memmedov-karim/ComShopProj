@@ -1,0 +1,79 @@
+
+.container{
+    width: 79%;
+    border: 1px solid black;
+    /* margin-left: 20%; */
+    
+    display: flex;
+    flex-wrap: wrap;
+    background: linear-gradient(90deg, rgba(50,50,57,1) 0%, rgba(164,119,45,1) 35%, rgba(7,47,56,0.9140698515734419) 100%);
+    border-radius: 10px;
+    
+    /* overflow-x: hidden;
+    overflow-y: auto;
+    text-align:justify; */
+    
+    
+
+}
+.cart{
+    width: 19%;
+    background-color: white;
+    border: 1px solid black;
+    margin-right: 1%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+    padding: 5px;
+}
+.cart p{
+    margin-bottom: 0px;
+}
+.cart img {
+    width: 80%;
+    height:200px;
+    
+}
+
+.infos{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    margin-top: 0px;
+    /* border: 1px solid black; */
+}
+
+.detail{
+    background-color: rgb(52, 149, 241);
+    color: white;
+}
+
+/* width */
+/* ::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  /* ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  } */
+   
+  /* Handle */
+  /* ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+   */
+  /* Handle on hover */
+  /* ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  } */ 
+
+.mmodal .modal-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(79, 79, 227);
+}

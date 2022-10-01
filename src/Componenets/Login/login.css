@@ -1,0 +1,68 @@
+.from-contanier{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    
+    width: 40%;
+}
+.form h1 {
+    margin-left: -33%;
+}
+.form .input{
+    outline: none;
+    border: none;
+    border: 1px solid rgb(33, 229, 33) ;
+    border-radius: 3px;
+    
+}
+label{
+    margin-bottom: 12px;
+    margin-top: 8px;
+}
+.label1{
+    margin-left: -82%;
+    
+}
+.label2{
+    margin-left: -93%;
+
+}
+
+.homepagebtn{
+    margin-left: -33%;
+    
+}
+.homepagebtn1{
+    background-color: yellow;
+    border: none;
+}
+.submit-btn{
+    margin-left: -75%;
+    margin-right: 2%;
+    
+    margin-top: 25px;
+    background-color: green;
+    
+}
+.noaccountins{
+    margin-left: -14%;
+}
+.noaccount  button{
+    border: none;
+    background-color: rgb(42, 42, 227);
+    color: white;
+    border-radius: 4px;
+    margin-left: 5px;
+}
+
+.hr{
+    width: 62%;
+    margin-left: 22%;
+}

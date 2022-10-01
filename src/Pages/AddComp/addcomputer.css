@@ -1,0 +1,102 @@
+.searchform{
+    margin-left: 78%;
+    margin-bottom: 0px;
+}
+.table{
+    width: 96%;
+    margin-left: 2%;
+}
+.delete{
+    background-color: red;
+    color: white;
+}
+.update{
+    background-color: rgb(43, 119, 241);
+    color: white;
+}
+.undertable{
+    /* border: 1px solid black; */
+    width: 96%;
+    margin-left: 2%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.buttons{
+    width: 20%;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.buttons .number{
+    /* border: 0.5px solid black; */
+    width: 30px;
+    height: 30px;
+    background-color: rgb(221, 217, 217);
+}
+
+.btn{
+    cursor: pointer;
+}
+
+.serchcomp{
+    outline: none;
+}
+
+.compimage{
+    width: 50px;
+    height: 50px;
+}
+
+.modal{
+    width: 100%;
+}
+.modal-edit{
+    width: 100%;
+}
+
+
+
+.form-inputs{
+    display: flex;
+    margin-left: 37%;
+
+}
+.left{
+    margin-right: 10%;
+    margin-left: -15%;
+}
+
+.form-inputs input {
+    width: 300px;
+    /* margin-bottom: 20px; */
+}
+.form-inputs label{
+    margin-bottom: 0px;
+}
+
+.form-buttons{
+    display: flex;
+    margin-left: 5%;
+    margin-bottom: 15px;
+}
+hr{
+    width: 797px;
+}
+
+.heading{
+    text-align: end;
+    margin-right: -33%;
+}
+
+.save{
+    background-color: rgb(37, 120, 237);
+    color:white;
+}
+.reset{
+    background-color: rgb(237, 166, 36);
+}

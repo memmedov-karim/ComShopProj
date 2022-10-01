@@ -1,0 +1,77 @@
+.from-contanier{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+.form .h1 {
+    margin-left: -40%;
+}
+.form .input{
+    outline: none;
+    border: none;
+    border: 1px solid rgb(33, 229, 33) ;
+    border-radius: 3px;
+    
+}
+label{
+    margin-bottom: 12px;
+    margin-top: 8px;
+}
+.label6{
+    margin-left: -95%;
+    
+}
+.label5{
+    margin-left: -90%;
+}
+.label3{
+    margin-left: -82%;
+}
+.label4{
+    margin-left: -93%;
+}
+.form-group {
+    width: 150px;
+    border-color: red;
+}
+.homepagebtn{
+    margin-left: -33%;
+    
+}
+.homepagebtn1{
+    background-color: yellow;
+    border: none;
+}
+.submit-btn3{
+    width: 30%;
+    background-color: green;
+    margin-top: 25px;
+    color:white;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+}
+.noaccount{
+    margin-left: -40%;
+}
+.noaccount button{
+    border: none;
+    background-color: rgb(42, 42, 227);
+    color: white;
+    border-radius: 4px;
+    margin-left: 5px;
+}
+
+.hr{
+   width: 63%;
+   margin-left: 23%;
+}
+
